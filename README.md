@@ -21,6 +21,8 @@
 
 <hr />
 
+**This repository is forked from the one KCD owns**
+
 In this material, we have a set of `no-framework` tests that correspond to a set
 of jest tests (in the `__tests__` directory). The idea is that (with the
 exception of the first test), you look at the jest version first, then see how
